@@ -36,6 +36,7 @@ IV. How to Use
 3. Run each cell to follow the entire preprocessing and model training pipeline
 
 V. Dependencies
+
 Install required packages using:
 ```bash
 pip install -r requirements.txt
